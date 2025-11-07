@@ -1,0 +1,34 @@
+div{
+    color: blue;
+    font-size: 16px;
+    margin: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 0cqmax(5px);
+    border: 1px solid black;
+    padding: 4px;
+    background-color: #f2f2f2;;
+}
+p{
+    line-height: 1.6;
+    text-align: justify;
+    margin-bottom: 12px;
+    color:crimson;
+}
+#firstDiv{
+    background-color: lightyellow;
+    border: 2px dashed green;
+    padding: 8px;
+    font-weight: bold;
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.firstClass{
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: darkblue;
+    font-size: 14px;
+    margin-top: 6px;
+    font-family:'Times New Roman', Tahoma, Geneva, Verdana, sans-serif;
+    border: 1px solid black;
+    padding: 4px;
+}
