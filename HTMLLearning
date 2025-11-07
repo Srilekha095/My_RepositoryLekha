@@ -1,0 +1,43 @@
+<!DOCTYPE html> 
+<html>
+    <head>
+        <title>My Web Page</title>
+        <link rel="stylesheet" href="./newStyle.css">
+        </head> 
+                <body>
+                <div>
+                   <h1 style = "color:aqua">Welcome to My Web Page</h1> </div>
+                   <a href="https://www.google.com">Google</a>
+                     <div> Web Page </div> 
+                   <!--<img src="./WhatsApp Image 2023-07-04 at 11.42.32 AM.jpeg" /> --> 
+            <h4 style = color:gold">
+              <p>  This is a sample paragraph to demonstrate the structure of an HTML document.
+                To create a new paragraph in an HTML document, the element is used.
+                     This element defines a block of text that browsers render with a distinct separation from surrounding content, 
+                     typically by adding a blank line above and below the paragraph. </div> </p>
+            </h4>
+            <list> 
+                <div id="firstDiv"> Course Provided </div>
+                <ul>
+                    <li>HTML</li>
+                    <li>CSS</li>
+                    <li>JavaScript</li>
+                </ul>
+                <div style="background-color:lightgrey;"> 
+                    Contact Information
+                    <p>Email:
+                        <p> Phone number </p>
+                        <div class="firstClass">  Salesforce Course </div>
+                        <div>  Admin </div>
+                        <div>  Developer </div>
+                        <div>  Architect </div>
+                        <div>  System Administrator </div>
+                        <div class="firstClass">  Salesforce CLI </div>
+                        <div>  Salesforce DX </div>
+                        <div>  Salesforce CLI Setup Guide </div>
+                        
+                </div>
+            </list>
+        </body> 
+    
+</html>
